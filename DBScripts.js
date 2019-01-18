@@ -43,43 +43,4 @@ function showFilmGenre(Genre){
         }
     }
 }
-// function showSciFi(){
-
-//     document.getElementById('textArea').innerHTML = "";
-   
-//     for(i=0; i < JSONArray.length; i++){
-        
-//         if(JSONArray[i].category == "Sci-Fi"){
-
-//             document.getElementById('textArea').innerHTML += JSONArray[i].title + " <br>" + JSONArray[i].description + " <br>£" + JSONArray[i].price   +" <br><br>";
-
-//         }
-//     }
-// }
-// function showFamily(){
-
-//     document.getElementById('textArea').innerHTML = "";
-   
-//     for(i=0; i < JSONArray.length; i++){
-        
-//         if(JSONArray[i].category == "Family"){
-
-//             document.getElementById('textArea').innerHTML += JSONArray[i].title + " <br>" + JSONArray[i].description + " <br>£" + JSONArray[i].price  +" <br><br>";
-
-//         }
-//     }
-// }
-// function showChildren(){
-
-//     document.getElementById('textArea').innerHTML = "";
-    
-//     for(i=0; i < JSONArray.length; i++){
-        
-//         if(JSONArray[i].category == "Children"){
-
-//             document.getElementById('textArea').innerHTML += JSONArray[i].title + " <br>" + JSONArray[i].description  + " <br>£" + JSONArray[i].price  +" <br><br>";
-
-//         }
-//     }
-// }
 
