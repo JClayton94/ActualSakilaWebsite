@@ -1,7 +1,7 @@
 let JSONArray = [];
 
 function getData(){
-    var requestURL = 'http://127.0.0.1:8080/api/film';
+    var requestURL = 'http://192.168.1.200:8080/api/film';
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.setRequestHeader('Content-Type', 'application/json');
